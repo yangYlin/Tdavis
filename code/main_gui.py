@@ -1,10 +1,4 @@
-﻿'''
-本作品由西南大学计信院杨远林所编写
-版权归杨远林所有，违者必追究法律责任
-最终解释权由杨远林决定
-''''
-
-
+﻿
 
 
 import tkinter as tk  # 使用Tkinter前需要先导入
@@ -914,11 +908,6 @@ class GUI:
         baowenbei.add_command(label='词云图', command=self.baowenbei_do_word_cloud)
         baowenbei.add_command(label='销量售价图', command=self.baowenbei_do_sale_price)
 
-'''
-本作品由西南大学计信院杨远林所编写
-版权归杨远林所有，违者必追究法律责任
-最终解释权由杨远林决定
-''''
 
 
         yijia = tk.Menu(jia_ju)

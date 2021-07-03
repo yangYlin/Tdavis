@@ -1,9 +1,4 @@
-﻿'''
-本作品由西南大学计信院杨远林所编写
-版权归杨远林所有，违者必追究法律责任
-最终解释权由杨远林决定
-''''
-
+﻿
 
 import requests
 from urllib.parse import quote
@@ -142,11 +137,7 @@ class CrawlProduct:
             #print(product)
             self.save_to_mongo(product)
 
-'''
-本作品由西南大学计信院杨远林所编写
-版权归杨远林所有，违者必追究法律责任
-最终解释权由杨远林决定
-''''
+
 
     #保存数据
     def save_to_mongo(self,product):
