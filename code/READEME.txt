@@ -1,0 +1,6 @@
+main_gui文件调用其他文件，主要实现界面等功能
+catch_data_show实现数据爬取，存储，显示
+Flask实现网页显示代理
+Getter与Crawler获取代理
+Tester检验代理
+需安装相应库，字体以及相应配置环境
