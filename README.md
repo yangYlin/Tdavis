@@ -1,11 +1,13 @@
 # Tdavis
 Taobao DAta VIsualization System(Tdavis)
+淘宝数据爬取
+商品数据可视化
 # 环境
 
 win7+python 6
 我在实验室电脑上用win10+python 7也跑成功过
 
-后面会抽时间写详细部署过程。。。。。。欢迎star
+后面会抽时间写详细部署过程。。。。。。欢迎star 和 follow
 
 <!-- # 其他
 
